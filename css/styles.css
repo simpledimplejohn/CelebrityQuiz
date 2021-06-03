@@ -1,0 +1,33 @@
+.btn {
+  display:block;
+}
+
+#quote {
+  display: none;
+}
+
+img {
+  height: auto;
+}
+
+.card-img {
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+}
+
+#sean-connery {
+  display: none;
+}
+
+#shia-labeouf {
+  display: none;
+}
+
+#billie-eilish {
+  display: none;
+}
+
+#error {
+  display: none;
+}
